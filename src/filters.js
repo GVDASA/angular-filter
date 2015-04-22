@@ -11,7 +11,6 @@ angular.module('angular.filter', [
   'a8m.uri-encode',
   'a8m.uri-component-encode',
   'a8m.slugify',
-  //'a8m.latinize',
   'a8m.strip-tags',
   'a8m.stringular',
   'a8m.truncate',
